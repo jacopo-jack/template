@@ -6,14 +6,12 @@
     <meta name="description" content="prove metatag">
     <meta name="author" content="jack">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <meta http-equiv="refresh" content="60">
     <link rel="stylesheet" href="style1.css" type="text/css" media="screen">
     <title>Prova</title>
 </head>
 <body>
 <header>
-    <meta name="keywords" content="html,css ">
-    <meta http-equiv="refresh" content="login.html">
+    <meta name="keywords" content="php,css ">
     <a href="#default.html">Home</a>
     <a href="corsi.html">corsi</a>
     <a href="offertelavoro.html">lavoro</a>
@@ -21,7 +19,7 @@
     <a href="contatti.html">Contatti</a>
 </header>
 <h1>Test</h1>
-<form action="action_page.php">
+<form>
   <div class="container">
     <h1>Register</h1>
     <p>Please fill in this form to create an account.</p>
