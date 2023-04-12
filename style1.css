@@ -1,0 +1,17 @@
+header{
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    font-size: large;
+    color: white;
+}
+.filiali,.case1,.case2,.case3,.case4{
+    text-decoration: none;
+    font-size: large;
+    color: black;
+}
+h1,h2,h3,h4,h5{
+    text-align:center;
+    font-size: larger;
+}
